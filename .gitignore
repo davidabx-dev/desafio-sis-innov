@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+env/
+venv/
+
+# Banco de Dados
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
